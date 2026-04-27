@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || "http://localhost:5000";
+const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || "https://codesync-backend-aw89.onrender.com";
 const TOKEN_KEY = "codesync-token";
 const USER_KEY = "codesync-user";
 
